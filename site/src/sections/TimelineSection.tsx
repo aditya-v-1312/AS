@@ -9,12 +9,6 @@ interface TimelineSectionProps {
 export const TimelineSection: React.FC<TimelineSectionProps> = ({ onPhotoClick }) => {
   return (
     <section id="our-timeline" className="relative py-20 md:py-32 px-4 max-w-5xl mx-auto">
-      {/* Decorative Washi Tape Header */}
-      <div className="flex justify-center mb-6">
-        <div className="washi-tape-gold px-8 py-2 rotate-1 text-[#8D746B] font-handwriting text-xl shadow-sm rounded-sm">
-          Chronicles of Aditya & Shruti
-        </div>
-      </div>
 
       {/* Section Header */}
       <div className="text-center max-w-2xl mx-auto mb-16 md:mb-24">

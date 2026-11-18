@@ -11,16 +11,6 @@ export interface PhotoMemory {
   category?: 'candid' | 'festive' | 'dates' | 'cozy';
 }
 
-export interface TimelineMilestone {
-  number: number;
-  title: string;
-  subtitle: string;
-  story: string;
-  photoSrc?: string;
-  photoCaption?: string;
-  tag: string;
-}
-
 export interface LoveReason {
   id: number;
   title: string;

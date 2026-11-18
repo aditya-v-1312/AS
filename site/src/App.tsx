@@ -11,7 +11,6 @@ import { StorySection } from './sections/StorySection';
 import { GallerySection } from './sections/GallerySection';
 import { LetterSection } from './sections/LetterSection';
 import { LittleThingsSection } from './sections/LittleThingsSection';
-import { TimelineSection } from './sections/TimelineSection';
 import { EnvelopeSection } from './sections/EnvelopeSection';
 import { ForeverSection } from './sections/ForeverSection';
 
@@ -75,10 +74,7 @@ export const App: React.FC = () => {
         {/* Section 5: Little Things I Love About You */}
         <LittleThingsSection onPhotoClick={handlePhotoSrcClick} />
 
-        {/* Section 6: Our Little Timeline */}
-        <TimelineSection onPhotoClick={handlePhotoSrcClick} />
-
-        {/* Section 7: The Little Envelope Surprise */}
+        {/* Section 6: The Little Envelope Surprise */}
         <EnvelopeSection />
 
         {/* Section 8: Our Little Forever */}

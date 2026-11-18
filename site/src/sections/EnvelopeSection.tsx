@@ -125,7 +125,7 @@ export const EnvelopeSection: React.FC = () => {
 
             <div className="mt-8 pt-4 border-t border-[#D99AA8]/30 flex items-center justify-between">
               <span className="font-serif italic text-sm text-[#8D746B]">
-                Always in your pocket ♡
+                Your Aditya is always right here ♡
               </span>
               <button
                 onClick={() => setIsOpen(false)}

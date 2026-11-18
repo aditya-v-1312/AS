@@ -40,7 +40,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenSurprise }) => {
       {/* Top Small Tag */}
       <div className="relative z-10 flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/70 border border-[#D99AA8]/40 shadow-sm text-xs uppercase tracking-widest text-[#8D746B] font-medium animate-fade-in">
         <Sparkles className="w-3.5 h-3.5 text-[#D99AA8]" />
-        <span>Aditya & Shruti • 3-Month Anniversary</span>
+        <span>A Surprise For My Favourite Girl • Happy 3 Months, Shruti ♡</span>
         <Sparkles className="w-3.5 h-3.5 text-[#D99AA8]" />
       </div>
 

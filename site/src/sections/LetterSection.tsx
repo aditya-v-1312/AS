@@ -62,7 +62,7 @@ export const LetterSection: React.FC<LetterSectionProps> = ({ onPhotoClick }) =>
               />
             </div>
             <p className="font-handwriting text-center text-lg text-[#783F50] mt-2">
-              My favorite humans ♡
+              My favourite person in the whole world ♡
             </p>
           </div>
         </div>

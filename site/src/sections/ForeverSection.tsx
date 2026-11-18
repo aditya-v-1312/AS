@@ -100,7 +100,7 @@ export const ForeverSection: React.FC<ForeverSectionProps> = ({ onPhotoClick }) 
 
         {/* Footer Copyright / Note */}
         <div className="mt-20 pt-8 border-t border-[#D99AA8]/30 text-xs text-[#8D746B] font-serif">
-          Crafted with all my heart for Shruti • "It was never planned, but it became everything."
+          Crafted with all my love by Aditya for his favourite girl, Shruti • "It was never planned, but it became everything."
         </div>
       </div>
     </section>

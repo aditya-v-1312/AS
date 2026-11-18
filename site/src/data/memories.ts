@@ -17,7 +17,7 @@ export const ALL_PHOTOS: PhotoMemory[] = [
     id: 'photo-2',
     src: '/photos/IMG_3950.jpg',
     title: 'The Sweetest Kiss',
-    caption: 'The sweetest kiss for my favourite boy ♡',
+    caption: 'The sweetest kiss from my favourite girl ♡',
     note: 'When you pull me close just to leave a little kiss on my cheek.',
     rotation: 'rotate-1',
     tapePosition: 'top-right',

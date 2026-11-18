@@ -117,7 +117,7 @@ export const StorySection: React.FC<StorySectionProps> = ({ onPhotoClick }) => {
 
         <div className="mt-8 flex items-center justify-center gap-2">
           <Heart className="w-5 h-5 fill-[#783F50] text-[#783F50]" />
-          <span className="font-handwriting text-2xl text-[#8D746B]">Aditya & Shruti</span>
+          <span className="font-handwriting text-2xl text-[#8D746B]">Forever Us • Aditya & Shruti ♡</span>
           <Heart className="w-5 h-5 fill-[#783F50] text-[#783F50]" />
         </div>
       </div>
